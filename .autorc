@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "qreytol",
+  "repo": "container-vybw7vc",
+  "name": "qreytol",
+}
